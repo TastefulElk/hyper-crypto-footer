@@ -1,0 +1,18 @@
+{
+  "name": "hyper-crypto-footer",
+  "version": "0.0.1",
+  "description": "A crypto currency tracker for Hyper terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hyper",
+    "crypto",
+    "cryptocurrency",
+    "footer",
+    "price"
+  ],
+  "author": "Sebastian Pettersson",
+  "license": "ISC"
+}

@@ -14,5 +14,8 @@
     "price"
   ],
   "author": "Sebastian Pettersson",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "color": "^2.0.0"
+  }
 }

@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TastefulElk/hyper-crypto-footer.git"
+  },
   "keywords": [
     "hyper",
     "crypto",
@@ -13,7 +17,10 @@
     "footer",
     "price"
   ],
-  "author": "Sebastian Pettersson",
+  "author": {
+    "name": "Sebastian Pettersson",
+    "email": "sebastian.pettersson@live.com"
+  },
   "license": "ISC",
   "dependencies": {
     "color": "^2.0.0"
